@@ -87,5 +87,5 @@ for ( ; $object->property == 2 ; ) {
 
 ## Further Reading 
 
-* [PHP functions aliases] (http://php.net/manual/en/aliases.php)
+* [PHP functions aliases](http://php.net/manual/en/aliases.php)
 -->

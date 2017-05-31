@@ -45,4 +45,4 @@ if (is_int($value)) {
 
 ## Further Reading 
 
-* [PHP functions aliases] (http://php.net/manual/en/aliases.php)
+* [PHP functions aliases](http://php.net/manual/en/aliases.php)
