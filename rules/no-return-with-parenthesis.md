@@ -53,4 +53,4 @@ function x() {
 
 ## Further Reading 
 
-* [Return] (http://php.net/manual/en/function.return.php)
+* [Return](http://php.net/manual/en/function.return.php)
